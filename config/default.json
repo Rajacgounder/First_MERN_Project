@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://raja:rajac@cluster0.lvlaw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "github":"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"
+    "mongoURI": "mongodb+srv://username:password@cluster0.lvlaw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "apiKey":"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"
 }
